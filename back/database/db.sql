@@ -378,7 +378,7 @@ VALUES ('20130026', 9.9,7.9,90.0,'B','T130712','TWD-2004','ISIC-2010-224','ISIE-
 --     fkEspecialidad_a VARCHAR(50),
 --     FOREIGN KEY (fkplanE_a,fkEspecialidad_a) REFERENCES planE(cve_pe,cvees_pe)
 -- );
-
+--
 -- --tabla de personal
 -- CREATE TABLE personal
 -- (
